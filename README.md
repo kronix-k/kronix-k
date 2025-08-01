@@ -93,7 +93,7 @@ alt="Nisemonogatari" width="225" height="331"/>
 </a>
 <br> <br><hr>
 <a href="https://myanimelist.net/anime/20865/Nekomonogatari__Kuro">
-<img src="https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
+<img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif"
 alt="Nekomonogatari (Kuro)" width="225" height="331"/>
 <h3>Nekomonogatari (Kuro)</h3>
 <p>Set before Bakemonogatari, this story centers on Tsubasa Hanekawa and her family issues, which cause her to be possessed by a supernatural entity called Sawarineko at night.</p>
