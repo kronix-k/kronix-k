@@ -104,4 +104,8 @@ alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <a href="https://myanimelist.net/anime/21855/Hanamonogatari">
 <img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif" alt="Hanamonogatari" width="225" height="331"/> <h3>Hanamonogatari</h3> <p><strong>Rating: Tomboy Girl🧖‍♀️/10</strong></p> <p>Focusing on Suruga Kanbaru, this anime follows her adventures after Araragi's graduation, as she investigates rumors about a "Devil Lord" and confronts her own past.</p> </a> <br> <br><hr> <a href="https://myanimelist.net/anime/11617/High_School_DxD">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV5N3N2bmtydDN1N2hlZDhva3p6emlxbGViZ2xidTk2dGRhaTI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XQbAP414LZjEY/giphy.gif" alt="High School DxD" width="225" height="331"/> <h3>High School DxD</h3> <p><strong>Rating: That should have been me. 😭/10</strong></p> <p>Issei Hyodo, a lecherous student, is killed by his girlfriend who turns out to be a fallen angel. He is resurrected as a devil by Rias Gremory and joins the Occult Research Club to fight against supernatural factions.</p> </a> </p>
-<br> <br><hr>
+<br> <br>
+
+<h2 align="center"><img src="https://media1.tenor.com/m/r5tCEX2bPvUAAAAC/math-yotsugi.gif"
+align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
+<h3 align="center"></h2>
