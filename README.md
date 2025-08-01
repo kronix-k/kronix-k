@@ -1,4 +1,4 @@
-rapikan <h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
+<h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
 <h3 align="center">
   Passionate about low-level systems, interactive UIs, and constant learning
 </h3>
