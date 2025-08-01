@@ -101,7 +101,7 @@ alt="Nekomonogatari (Kuro)" width="225" height="331"/>
 </a>
 <br> <br>
 <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
-<img src="https://cdn.myanimelist.net/images/anime/6/87322.jp"
+<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif"
 alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <h3>Owarimonogatari 2nd Season</h3>
 <p>Musim terakhir dari seri Monogatari yang mengakhiri kisah Koyomi Araragi dan mengungkap misteri di balik sosok misterius Oshino Ougi, sambil menyelesaikan alur cerita yang terpendam.</p>
