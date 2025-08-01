@@ -202,7 +202,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <p><strong>Rating:</strong> 6.9/10 — Academia meets waifu 👩‍🏫📘</p>
 <p><strong>Genre:</strong> Visual Novel, Slice of Life, School Sim</p>
 <p>A satirical Chinese visual novel about balancing study time with seductive classmates. Light-hearted and humorous.</p>
-<p><a href="https://store.steampowered.com/search/?term=Beauty%20please%20don%27t%20affect%20my%20immortality">View on Steam</a></p>
+<p><a href="https://store.steampowered.com/app/2786680/_/?l=schinese">View on Steam</a></p>
 </details>
 
 <details>
