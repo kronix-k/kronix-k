@@ -94,16 +94,22 @@ alt="Nisemonogatari" width="225" height="331"/>
 
 Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanyadai nyanynaku nyarabete nyaganyagame.</strong></p> <p>Set before Bakemonogatari, this story centers on Tsubasa Hanekawa and her family issues, which cause her to be possessed by a supernatural entity called Sawarineko at night.</p> </a> <br> <br><hr>
 <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
-<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif"
-alt="Owarimonogatari 2nd Season" width="225" height="331"/>
+<img src="https://media1.tenor.com/m/4I20HT7D-d0AAAAC/ougi-monogatari.gif" 
+  alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <h3>Owarimonogatari 2nd Season</h3>
-<p><strong>Rating: 7/10🙄</strong></p>
+<p><strong>Rating: 7/10🎭</strong></p>
 <p>The final season of the Monogatari series that concludes Koyomi Araragi's story and reveals the mystery behind the enigmatic figure of Ougi Oshino, while resolving lingering plotlines.</p>
 </a>
 <br> <br><hr>
 <a href="https://myanimelist.net/anime/21855/Hanamonogatari">
-<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif" alt="Hanamonogatari" width="225" height="331"/> <h3>Hanamonogatari</h3> <p><strong>Rating: Tomboy Girl🧖‍♀️/10</strong></p> <p>Focusing on Suruga Kanbaru, this anime follows her adventures after Araragi's graduation, as she investigates rumors about a "Devil Lord" and confronts her own past.</p> </a> <br> <br><hr> <a href="https://myanimelist.net/anime/11617/High_School_DxD">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV5N3N2bmtydDN1N2hlZDhva3p6emlxbGViZ2xidTk2dGRhaTI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XQbAP414LZjEY/giphy.gif" alt="High School DxD" width="225" height="331"/> <h3>High School DxD</h3> <p><strong>Rating: That should have been me. 😭/10</strong></p> <p>Issei Hyodo, a lecherous student, is killed by his girlfriend who turns out to be a fallen angel. He is resurrected as a devil by Rias Gremory and joins the Occult Research Club to fight against supernatural factions.</p> </a> </p>
+<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif" alt="Hanamonogatari" width="225" height="331"/> 
+  <h3>Hanamonogatari</h3> <p><strong>Rating: Tomboy/10 🧖‍♀️</strong></p> 
+  <p>Focusing on Suruga Kanbaru, this anime follows her adventures after Araragi's graduation, as she investigates rumors about a "Devil Lord" and confronts her own past.</p> </a> <br> <br><hr>
+  <a href="https://myanimelist.net/anime/11617/High_School_DxD">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV5N3N2bmtydDN1N2hlZDhva3p6emlxbGViZ2xidTk2dGRhaTI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XQbAP414LZjEY/giphy.gif" alt="High School DxD" width="225" height="331"/> 
+    <h3>High School DxD</h3>
+    <p><strong>Rating: That should have been me/10 😭</strong></p> 
+    <p>Issei Hyodo, a lecherous student, is killed by his girlfriend who turns out to be a fallen angel. He is resurrected as a devil by Rias Gremory and joins the Occult Research Club to fight against supernatural factions.</p> </a> </p>
 <br> <br>
 
 <h2 align="center"><img src="https://media1.tenor.com/m/r5tCEX2bPvUAAAAC/math-yotsugi.gif"
