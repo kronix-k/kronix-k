@@ -85,27 +85,27 @@
          alt="Kizumonogatari" width="225" height="331"/>
          <h3>Kizumonogatari</h3>
   </a>
-   <br>
+   <br> <br> 
   <a href="https://myanimelist.net/anime/11313/Nisemonogatari">
     <img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif"
          alt="Nisemonogatari" width="225" height="331"/>
   </a>
-   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+   <br> <br> 
   <a href="https://myanimelist.net/anime/20865/Nekomonogatari__Kuro">
     <img src="https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
          alt="Nekomonogatari (Kuro)" width="225" height="331"/>
   </a>
-   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+   <br> <br> 
   <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
     <img src="https://cdn.myanimelist.net/images/anime/6/87322.jpg"
          alt="Owarimonogatari 2nd Season" width="225" height="331"/>
   </a>
-   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+    <br> <br> 
   <a href="https://myanimelist.net/anime/21855/Hanamonogatari">
     <img src="https://cdn.myanimelist.net/images/anime/13/65755.jpg"
          alt="Hanamonogatari" width="225" height="331"/>
   </a>
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+   <br> <br>
   <a href="https://myanimelist.net/anime/11617/High_School_DxD">
     <img src="https://cdn.myanimelist.net/images/anime/1467/95694.jpg"
          alt="High School DxD" width="225" height="331"/>
