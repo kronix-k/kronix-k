@@ -9,9 +9,7 @@ Passionate about low-level systems, interactive UIs, and constant learning
 <!-- Social links -->
 
 <p align="center">
-<a href="mailto:kronixcgx@gmail.com">
-<img src="https://img.shields.io/badge/Email-your.email@example.com-blue" alt="Email">
-</a>
+
 <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-@kronix--k-black" alt="GitHub">
 </a>
