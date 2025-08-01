@@ -13,12 +13,6 @@ Passionate about low-level systems, interactive UIs, and constant learning
 <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-@kronix--k-black" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/kronix-k" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-kronix--k-0A66C2" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/kronix_k" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Twitter-@kronix__k-1DA1F2" alt="Twitter">
-</a>
 </p>
 
 <h3 align="left">🛠 Languages & Tools</h3>
