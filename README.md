@@ -108,7 +108,7 @@ alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 </a>
 <br> <br>
 <a href="https://myanimelist.net/anime/21855/Hanamonogatari">
-<img src="https://cdn.myanimelist.net/images/anime/13/65755.jpg"
+<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif"
 alt="Hanamonogatari" width="225" height="331"/>
 <h3>Hanamonogatari</h3>
 <p>Berfokus pada Suruga Kanbaru, anime ini mengisahkan petualangannya setelah kelulusan Araragi, saat ia menyelidiki desas-desus tentang "Lord Devil" dan menghadapi masa lalunya sendiri.</p>
