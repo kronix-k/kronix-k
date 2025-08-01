@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
+[<h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5b2NtNzExZTJ2dmVscnRzaDdjZXg2MHcxbXQ0djVybnJ3cWdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif"
 align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
 <h3 align="center"></h2>
@@ -141,14 +141,8 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <h3 align="left">🎮 Games I've Played</h3>
 
 <details>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <!-- Contoh GIF -->
-    <img src="https://images.squarespace-cdn.com/content/v1/5caf2dea93a63238c9069ba4/1626882430288-GK0H8XEDOOS13VW58HCB/Ender+Lilies+1.gif?format=2500w" alt="Endless Lilies GIF" width="250" height="160" style="border-radius: 8px;"/>
-    <!-- Tambahkan GIF berikutnya di sini -->
-    <!-- <img src="..." alt="Game Name GIF" width="250" height="160" style="border-radius: 8px;"/> -->
-  </div>
-</div><summary><strong>🌸 Endless Lilies</strong></summary>
+<summary><strong>🌸 Endless Lilies</strong></summary>
+<img src="https://images.squarespace-cdn.com/content/v1/5caf2dea93a63238c9069ba4/1626882430288-GK0H8XEDOOS13VW58HCB/Ender+Lilies+1.gif?format=2500w" alt="Endless Lilies GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 8.5/10 — Peaceful despair 🌧️</p>
 <p><strong>Genre:</strong> Roguelite, Metroidvania, Action</p>
 <p>A dark‑fantasy action RPG where you control Lily in a ruined kingdom devastated by Death Rain, with fallen knights guiding you through deadly encounters.</p>
@@ -157,6 +151,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🥋 Yakuza Zero</strong></summary>
+<img src="https://media1.tenor.com/m/toP5fjmqENsAAAAd/yakuza0-complete-domination.gi" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 10/10 — Peak drama & karaoke 🎤💼</p>
 <p><strong>Genre:</strong> Action, Beat ’em up, Crime Drama</p>
 <p>The prequel to Yakuza, set in 1980s Japan. Follow Kiryu & Majima navigating the criminal underworld in Tokyo and Osaka with emotional drama and absurd side quests.</p>
@@ -216,3 +211,5 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <h2 align="center"><img src="https://media1.tenor.com/m/r5tCEX2bPvUAAAAC/math-yotsugi.gif"
 align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
 <h3 align="center"></h2>
+
+<hr>
