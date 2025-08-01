@@ -85,7 +85,7 @@
          alt="Kizumonogatari" width="225" height="331"/>
          <h3>Kizumonogatari</h3>
   </a>
-   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+   <br>
   <a href="https://myanimelist.net/anime/11313/Nisemonogatari">
     <img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif"
          alt="Nisemonogatari" width="225" height="331"/>
