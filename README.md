@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
+<h2 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5b2NtNzExZTJ2dmVscnRzaDdjZXg2MHcxbXQ0djVybnJ3cWdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif"
+align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
+<h3 align="center"></h2>
 <h3 align="center">
-<p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5b2NtNzExZTJ2dmVscnRzaDdjZXg2MHcxbXQ0djVybnJ3cWdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif"
-alt="Coding GIF" width="500" height="550" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);"/></p>
-
 Passionate about low-level systems, interactive UIs, and constant learning
 </h3>
 
 <!-- Social links -->
 
 <p align="center">
-
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-your.email@example.com-blue" alt="Email">
+</a>
 <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-@kronix--k-black" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/kronix-k" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-kronix--k-0A66C2" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/kronix_k" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Twitter-@kronix__k-1DA1F2" alt="Twitter">
 </a>
 </p>
 
@@ -52,63 +60,64 @@ alt="Go" width="40" height="40"/>
 </a>
 </p>
 
-<h3 align="left">🔭 Sedang Bekerja Pada</h3>
+<h3 align="left">🔭 Currently Working On</h3>
 <ul>
-<li>🤖 <strong>Neo Assistant</strong>: asisten suara offline multi-bahasa dengan tampilan 3D interaktif dan fitur lipsync.</li>
-<li>🖩 <strong>CLI Calculator</strong>: kalkulator sederhana berbasis terminal untuk operasi dasar.</li>
-<li>📱 <strong>CLI Chat Bot</strong>: bot percakapan terminal terintegrasi Ollama, dengan speech-to-text dan penyimpanan riwayat.</li>
-<li>🌡️ <strong>Temperature Converter</strong>: konversi suhu antar skala via antarmuka teks.</li>
-<li>🛠️ <strong>Warranty Manager</strong>: kelola garansi produk dan panduan klaim.</li>
+<li>🤖 <strong>Neo Assistant</strong>: An offline, multi-language voice assistant with interactive 3D visuals and lipsync features.</li>
+<li>🖩 <strong>CLI Calculator</strong>: A simple terminal-based calculator for basic operations.</li>
+<li>📱 <strong>CLI Chat Bot</strong>: A terminal chatbot integrated with Ollama, featuring speech-to-text and chat history storage.</li>
+<li>🌡️ <strong>Temperature Converter</strong>: Converts temperature between various scales via a text interface.</li>
+<li>🛠️ <strong>Warranty Manager</strong>: A tool to manage product warranties and claim guides.</li>
 </ul>
 
-<h3 align="left">⚡ Fakta Menarik</h3>
+<h3 align="left">⚡ Fun Facts</h3>
 <ul>
-<li>🎮 Penggemar game soulslike dan suka tantangan.</li>
-<li>📺 Pecinta anime, terutama <em>Monogatari Series</em>.</li>
-<li>🎵 Belum bisa main alat musik, tapi semangat belajar.</li>
+<li>🎮 A fan of soulslike games and loves a challenge.</li>
+<li>📺 An anime enthusiast, especially the <em>Monogatari Series</em>.</li>
+<li>🎵 Can't play a musical instrument yet, but is eager to learn.</li>
 </ul>
 
-<h3 align="left">📺 Anime yang Sudah Ditonton</h3>
+<h3 align="left">📺 Anime I've Watched</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
 <a href="https://myanimelist.net/anime/24255/Kizumonogatari">
 <img src="https://giffiles.alphacoders.com/495/49507.gif"
 alt="Kizumonogatari" width="225" height="331"/>
 <h3>Kizumonogatari</h3>
-<p>Prekuel dari seri Monogatari yang mengisahkan Koyomi Araragi yang berubah menjadi vampir setelah menyelamatkan Kiss-Shot Acerola-Orion Heart-Under-Blade dan harus berhadapan dengan pemburu vampir.</p>
+<p>A prequel to the Monogatari series, telling the story of Koyomi Araragi who is turned into a vampire after saving Kiss-Shot Acerola-Orion Heart-Under-Blade and must face vampire hunters.</p>
 </a>
-<br> <br>
+<br> <br><hr>
 <a href="https://myanimelist.net/anime/11313/Nisemonogatari">
 <img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif"
 alt="Nisemonogatari" width="225" height="331"/>
 <h3>Nisemonogatari</h3>
-<p>Melanjutkan kisah setelah Bakemonogatari, anime ini fokus pada kedua adik perempuan Araragi, Karen dan Tsukihi, yang terseret ke dalam insiden gaib yang berhubungan dengan "Palsu" dan penipu.</p>
+<p>Continuing the story after Bakemonogatari, this anime focuses on Araragi's two younger sisters, Karen and Tsukihi, who get caught up in supernatural incidents related to "Fakes" and con artists.</p>
 </a>
-<br> <br>
+<br> <br><hr>
 <a href="https://myanimelist.net/anime/20865/Nekomonogatari__Kuro">
-<img src="https://media1.tenor.com/m/0cp2raB0mFwAAAAC/monogatri.gif"
+<img src="https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
 alt="Nekomonogatari (Kuro)" width="225" height="331"/>
 <h3>Nekomonogatari (Kuro)</h3>
-<p>Berlatar sebelum Bakemonogatari, cerita ini berpusat pada Tsubasa Hanekawa dan masalah keluarganya, yang menyebabkan ia dirasuki entitas gaib bernama Sawarineko di malam hari.</p>
+<p>Set before Bakemonogatari, this story centers on Tsubasa Hanekawa and her family issues, which cause her to be possessed by a supernatural entity called Sawarineko at night.</p>
 </a>
-<br> <br>
+<br> <br><hr>
 <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
-<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif"
+<img src="https://cdn.myanimelist.net/images/anime/6/87322.jpg"
 alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <h3>Owarimonogatari 2nd Season</h3>
-<p>Musim terakhir dari seri Monogatari yang mengakhiri kisah Koyomi Araragi dan mengungkap misteri di balik sosok misterius Oshino Ougi, sambil menyelesaikan alur cerita yang terpendam.</p>
+<p>The final season of the Monogatari series that concludes Koyomi Araragi's story and reveals the mystery behind the enigmatic figure of Ougi Oshino, while resolving lingering plotlines.</p>
 </a>
-<br> <br>
+<br> <br><hr>
 <a href="https://myanimelist.net/anime/21855/Hanamonogatari">
-<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif"
+<img src="https://cdn.myanimelist.net/images/anime/13/65755.jpg"
 alt="Hanamonogatari" width="225" height="331"/>
 <h3>Hanamonogatari</h3>
-<p>Berfokus pada Suruga Kanbaru, anime ini mengisahkan petualangannya setelah kelulusan Araragi, saat ia menyelidiki desas-desus tentang "Lord Devil" dan menghadapi masa lalunya sendiri.</p>
+<p>Focusing on Suruga Kanbaru, this anime follows her adventures after Araragi's graduation, as she investigates rumors about a "Devil Lord" and confronts her own past.</p>
 </a>
-<br> <br>
+<br> <br><hr>
 <a href="https://myanimelist.net/anime/11617/High_School_DxD">
 <img src="https://cdn.myanimelist.net/images/anime/1467/95694.jpg"
 alt="High School DxD" width="225" height="331"/>
 <h3>High School DxD</h3>
-<p>Issei Hyodo, seorang siswa cabul, dibunuh oleh pacarnya yang merupakan malaikat jatuh. Ia dihidupkan kembali sebagai iblis oleh Rias Gremory dan bergabung dengan Occult Research Club untuk berjuang melawan faksi supernatural.</p>
+<p>Issei Hyodo, a lecherous student, is killed by his girlfriend who turns out to be a fallen angel. He is resurrected as a devil by Rias Gremory and joins the Occult Research Club to fight against supernatural factions.</p>
 </a>
 </p>
+<hr>
