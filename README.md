@@ -5,17 +5,11 @@
 
 <!-- Social links -->
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="kronixcgx@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email@example.com-blue" alt="Email">
   </a>
   <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-@kronix--k-black" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/kronix-k" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-kronix--k-0A66C2" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/kronix_k" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-@kronix__k-1DA1F2" alt="Twitter">
   </a>
 </p>
 
@@ -45,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
@@ -65,3 +59,22 @@
     <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
   </a>
 </p>
+<hr/>
+
+<!-- Sedang Bekerja Pada -->
+<h3 align="left">🔭 Sedang Bekerja Pada</h3>
+<ul>
+  <li>🤖 <strong>Neo Assistant</strong>: asisten suara offline multi-bahasa dengan tampilan 3D interaktif dan fitur lipsync.</li>
+  <li>🖩 <strong>CLI Calculator</strong>: kalkulator sederhana berbasis terminal untuk operasi dasar (penjumlahan, pengurangan, perkalian, pembagian).</li>
+  <li>📱 <strong>CLI Chat Bot</strong>: bot percakapan di terminal terintegrasi Ollama, dengan speech-to-text dan penyimpanan riwayat.</li>
+  <li>🌡️ <strong>Temperature Converter</strong>: konversi suhu antara Celsius, Fahrenheit, dan Kelvin lewat antarmuka teks.</li>
+  <li>🛠️ <strong>Warranty Manager</strong>: kelola garansi produk, pantau masa berlaku, dan panduan klaim.</li>
+</ul>
+
+<!-- Fakta Menarik -->
+<h3 align="left">⚡ Fakta Menarik</h3>
+<ul>
+  <li>🎮 Penggemar game soulslike dan suka tantangan.</li>
+  <li>📺 Pecinta anime, terutama <em>Monogatari Series</em>.</li>
+  <li>🎵 Belum bisa bermain alat musik, tapi semangat belajar.</li>
+</ul>
