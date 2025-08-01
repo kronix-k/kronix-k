@@ -9,8 +9,7 @@ Passionate about low-level systems, interactive UIs, and constant learning
 <!-- Social links -->
 
 <p align="center">
-<a href="kronixcgx@gmail.com
-">
+<a href="mailto:kronixcgx@gmail.com">
 <img src="https://img.shields.io/badge/Email-your.email@example.com-blue" alt="Email">
 </a>
 <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
@@ -61,7 +60,6 @@ alt="Go" width="40" height="40"/>
 </a>
 </p>
 
-alt="Coding GIF" width="80" height="80" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);"/>
 <h3 align="left">🔭 Sedang Bekerja Pada</h3>
 <ul>
 <li>🤖 <strong>Neo Assistant</strong>: asisten suara offline multi-bahasa dengan tampilan 3D interaktif dan fitur lipsync.</li>
