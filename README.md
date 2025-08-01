@@ -9,18 +9,11 @@ Passionate about low-level systems, interactive UIs, and constant learning
 <!-- Social links -->
 
 <p align="center">
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-your.email@example.com-blue" alt="Email">
-</a>
+
 <a href="https://github.com/kronix-k" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-@kronix--k-black" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/kronix-k" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-kronix--k-0A66C2" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/kronix_k" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Twitter-@kronix__k-1DA1F2" alt="Twitter">
-</a>
+
 </p>
 
 <h3 align="left">🛠 Languages & Tools</h3>
@@ -93,9 +86,10 @@ alt="Nisemonogatari" width="225" height="331"/>
 <img src="https://media1.tenor.com/m/fE85wBz8vOwAAAAC/black-hanekawa-wink.gif" alt="Nekomonogatari (Kuro)" width="225" height="331"/> <h3>Nekomonogatari (Kuro)</h3> <p><strong>Rating: にゃにゃめにゃにゃじゅうにゃにゃどのにゃらびでにゃくにゃくいにゃにゃくにゃにゃはんにゃにゃだいにゃんにゃくにゃらべてにゃがにゃがめ/10 😺
 
 Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanyadai nyanynaku nyarabete nyaganyagame.</strong></p> <p>Set before Bakemonogatari, this story centers on Tsubasa Hanekawa and her family issues, which cause her to be possessed by a supernatural entity called Sawarineko at night.</p> </a> <br> <br><hr>
+
 <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
-<img src="https://media1.tenor.com/m/4I20HT7D-d0AAAAC/ougi-monogatari.gif" 
-  alt="Owarimonogatari 2nd Season" width="225" height="331"/>
+<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif"
+alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <h3>Owarimonogatari 2nd Season</h3>
 <p><strong>Rating: 7/10🎭</strong></p>
 <p>The final season of the Monogatari series that concludes Koyomi Araragi's story and reveals the mystery behind the enigmatic figure of Ougi Oshino, while resolving lingering plotlines.</p>
