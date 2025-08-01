@@ -94,14 +94,14 @@ alt="Nisemonogatari" width="225" height="331"/>
 </a>
 <br> <br>
 <a href="https://myanimelist.net/anime/20865/Nekomonogatari__Kuro">
-<img src="https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
+<img src="https://media1.tenor.com/m/0cp2raB0mFwAAAAC/monogatri.gif"
 alt="Nekomonogatari (Kuro)" width="225" height="331"/>
 <h3>Nekomonogatari (Kuro)</h3>
 <p>Berlatar sebelum Bakemonogatari, cerita ini berpusat pada Tsubasa Hanekawa dan masalah keluarganya, yang menyebabkan ia dirasuki entitas gaib bernama Sawarineko di malam hari.</p>
 </a>
 <br> <br>
 <a href="https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season">
-<img src="https://cdn.myanimelist.net/images/anime/6/87322.jpg"
+<img src="https://cdn.myanimelist.net/images/anime/6/87322.jp"
 alt="Owarimonogatari 2nd Season" width="225" height="331"/>
 <h3>Owarimonogatari 2nd Season</h3>
 <p>Musim terakhir dari seri Monogatari yang mengakhiri kisah Koyomi Araragi dan mengungkap misteri di balik sosok misterius Oshino Ougi, sambil menyelesaikan alur cerita yang terpendam.</p>
