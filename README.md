@@ -215,7 +215,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <p><a href="https://store.steampowered.com/app/2753900/The_King_is_Watching/">View on Steam</a></p>
 </details>
 
-
+<br>
 
 <h2 align="center"><img src="https://media1.tenor.com/m/r5tCEX2bPvUAAAAC/math-yotsugi.gif"
 align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
