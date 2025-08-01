@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
+<h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5b2NtNzExZTJ2dmVscnRzaDdjZXg2MHcxbXQ0djVybnJ3cWdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif"
 align="center" alt="Coding GIF" width="500" height="500" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
 <h3 align="center"></h2>
@@ -151,7 +151,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🥋 Yakuza Zero</strong></summary>
-<img src="https://media1.tenor.com/m/toP5fjmqENsAAAAd/yakuza0-complete-domination.gi" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sOWljcDR3ZTRjZW01M3R0YTgwMmhhdXI4emxhMGVudDdzcTVjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pv92vgg1AgRPkMADQm/giphy.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 10/10 — Peak drama & karaoke 🎤💼</p>
 <p><strong>Genre:</strong> Action, Beat ’em up, Crime Drama</p>
 <p>The prequel to Yakuza, set in 1980s Japan. Follow Kiryu & Majima navigating the criminal underworld in Tokyo and Osaka with emotional drama and absurd side quests.</p>
@@ -160,6 +160,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>⛪ Blasphemous</strong></summary>
+<img src="https://media1.tenor.com/m/b2CedKmxDrwAAAAd/blasphemy-fall.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 9/10 — Catholic guilt simulator ⛓️🩸</p>
 <p><strong>Genre:</strong> Action Platformer, Soulslike, Gothic</p>
 <p>A brutal metroidvania set in the cursed land of Cvstodia. Play as The Penitent One fighting grotesque enemies to break a divine curse.</p>
@@ -168,6 +169,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🐟 Feeding Frenzy 2 Deluxe</strong></summary>
+  <img src="https://tcrf.net/images/4/4a/Feedingfrenzy2-Idle_cycle.Cod.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 7/10 — Childhood carnage 🐠✨</p>
 <p><strong>Genre:</strong> Arcade, Casual</p>
 <p>A vibrant underwater arcade game where you evolve by eating smaller fish and dodging predators across colorful levels.</p>
@@ -176,6 +178,8 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🧠 Refind Self: The Personality Test Game</strong></summary>
+    <img src="https://playism.com/wp-content/uploads/2023/09/ConversationWithRobot.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
+
 <p><strong>Rating:</strong> 8.2/10 — Who am I really? 🤔</p>
 <p><strong>Genre:</strong> Psychological, Narrative, Exploration</p>
 <p>An interactive exploration-based game that reflects your personality through actions. Each playthrough offers unique psychological insights.</p>
@@ -184,6 +188,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>⚔️ The Witcher 3: Wild Hunt</strong></summary>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ3bGZ4dnhybmpva3dodXU4MnQwcTNyZnlzY3liaTcwZnBqY293ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqriKSsBp6PrmBh2t/giphy.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
 <p><strong>Rating:</strong> 9.5/10 — Legendary storytelling 🐺🌲</p>
 <p><strong>Genre:</strong> Open‑world RPG, Fantasy, Adventure</p>
 <p>You are Geralt of Rivia in a richly detailed, morally complex world. Hunt monsters, shape destinies, and navigate political intrigue.</p>
@@ -192,6 +197,8 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>📚 美女，请别影响我学习 (Beauty, Don’t Disturb Me While I Study)</strong></summary>
+    <img src="https://images.steamusercontent.com/ugc/2511393199358523599/DD85C6C1F04CAEBE7B88BDDDE0860C11D074E634/" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
+
 <p><strong>Rating:</strong> 6.9/10 — Academia meets waifu 👩‍🏫📘</p>
 <p><strong>Genre:</strong> Visual Novel, Slice of Life, School Sim</p>
 <p>A satirical Chinese visual novel about balancing study time with seductive classmates. Light-hearted and humorous.</p>
@@ -200,6 +207,8 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>👑 The King is Watching</strong></summary>
+      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2753900/extras/GIF_1.gif?t=1753115463" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
+
 <p><strong>Rating:</strong> 9/10 — Gaze‑based kingdom builder 🏰👁️</p>
 <p><strong>Genre:</strong> Roguelite, Kingdom Builder, RTS, Dark Fantasy</p>
 <p>Released on July 21, 2025 by Hypnohead and tinyBuild. Make your subjects work only when you watch them! Manage production, units, magic, and upgrades in tension‑filled runs. Each playthrough reshapes your strategy, with increasingly powerful kings, advisors, buildings, and enemies to face. :contentReference[oaicite:1]{index=1}</p>
