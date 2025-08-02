@@ -196,7 +196,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 </details>
 
 <details>
-<summary><strong>📚 美女，请别影响我学习 (Beauty, Don’t Disturb Me While I Study)</strong></summary>
+<summary><strong>📚 美女，请别影响我学习 (Knowledge, or know Lady)</strong></summary>
     <img src="https://images.steamusercontent.com/ugc/2511393199358523599/DD85C6C1F04CAEBE7B88BDDDE0860C11D074E634/" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
 
 <p><strong>Rating:</strong> 6.9/10 — Academia meets waifu 👩‍🏫📘</p>
