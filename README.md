@@ -211,7 +211,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <p><strong>Rating:</strong> 9/10 — Gaze‑based kingdom builder 🏰👁️</p>
 <p><strong>Genre:</strong> Roguelite, Kingdom Builder, RTS, Dark Fantasy</p>
-<p>Released on July 21, 2025 by Hypnohead and tinyBuild. Make your subjects work only when you watch them! Manage production, units, magic, and upgrades in tension‑filled runs. Each playthrough reshapes your strategy, with increasingly powerful kings, advisors, buildings, and enemies to face. :contentReference[oaicite:1]{index=1}</p>
+<p>Released on July 21, 2025 by Hypnohead and tinyBuild. Make your subjects work only when you watch them! Manage production, units, magic, and upgrades in tension‑filled runs. Each playthrough reshapes your strategy, with increasingly powerful kings, advisors, buildings, and enemies to face.</p>
 <p><a href="https://store.steampowered.com/app/2753900/The_King_is_Watching/">View on Steam</a></p>
 </details>
 
