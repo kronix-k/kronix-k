@@ -56,8 +56,7 @@ alt="Go" width="40" height="40"/>
 <h3 align="left">🔭 Currently Working On</h3>
 <ul>
 <li>🤖 <strong>Neo Assistant</strong>: An offline, multi-language voice assistant with interactive 3D visuals and lipsync features.</li>
-<li>🖩 <strong>CLI Calculator</strong>: A simple terminal-based calculator for basic operations.</li>
-<li>📱 <strong>CLI Chat Bot</strong>: A terminal chatbot integrated with Ollama, featuring speech-to-text and chat history storage.</li>
+<li>🖩  <strong>CLI Calculator</strong>: A simple terminal-based calculator for basic operations.</li>
 <li>🌡️ <strong>Temperature Converter</strong>: Converts temperature between various scales via a text interface.</li>
 <li>🛠️ <strong>Warranty Manager</strong>: A tool to manage product warranties and claim guides.</li>
 </ul>
