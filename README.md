@@ -65,7 +65,7 @@ alt="Go" width="40" height="40"/>
 <ul>
 <li>🎮 A fan of soulslike games and loves a challenge.</li>
 <li>📺 An anime enthusiast, especially the <em>Monogatari Series</em>.</li>
-<li>🎵 Can't play a musical instrument yet, but is eager to learn.</li>
+<li>🎵 Can't play a musical instrument.</li>
 </ul>
 
 <h3 align="left">📺 Anime I've Watched</h3>
