@@ -72,7 +72,7 @@ alt="Go" width="45" height="20"/>
 
 <details>
 <summary><strong>🌕 Kizumonogatari</strong></summary>
-<img src="https://giffiles.alphacoders.com/495/49507.gif" alt="Kizumonogatari" width="225" height="200"/>
+<img src="https://giffiles.alphacoders.com/495/49507.gif" alt="Kizumonogatari" width="225" height="225"/>
 <p><strong>Rating:</strong> Absolute cinema 🙌<br>
 <strong>Genre:</strong> Action, Supernatural, Vampire, Drama<br>
 <strong>Studio:</strong> Shaft<br>
@@ -83,7 +83,7 @@ alt="Go" width="45" height="20"/>
 
 <details>
 <summary><strong>🔥 Nisemonogatari</strong></summary>
-<img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif" alt="Nisemonogatari" width="225" height="200"/>
+<img src="https://media1.tenor.com/m/0QCNcrgLi1sAAAAC/karen-araragi-monogatari.gif" alt="Nisemonogatari" width="225" height="225"/>
 <p><strong>Rating:</strong> I need two sisters 👧🏼👧/10<br>
 <strong>Genre:</strong> Mystery, Supernatural, Dialogue-heavy, Comedy<br>
 <strong>Studio:</strong> Shaft<br>
@@ -94,7 +94,7 @@ alt="Go" width="45" height="20"/>
 
 <details>
 <summary><strong>🐱 Nekomonogatari (Kuro)</strong></summary>
-<img src="https://media1.tenor.com/m/fE85wBz8vOwAAAAC/black-hanekawa-wink.gif" alt="Nekomonogatari (Kuro)" width="225" height="200"/>
+<img src="https://media1.tenor.com/m/fE85wBz8vOwAAAAC/black-hanekawa-wink.gif" alt="Nekomonogatari (Kuro)" width="225" height="225"/>
 <p><strong>Rating:</strong> にゃにゃめにゃにゃじゅうにゃにゃどのにゃらびでにゃくにゃくいにゃにゃくにゃにゃはんにゃにゃだいにゃんにゃくにゃらべてにゃがにゃがめ/10😺
 
 Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanyadai nyanynaku nyarabete nyaganyagame<br>
@@ -107,7 +107,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🎭 Owarimonogatari 2nd Season</strong></summary>
-<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif" alt="Owarimonogatari 2nd Season" width="225" height="200"/>
+<img src="https://media1.tenor.com/m/YwEk85z_dHUAAAAC/oshino-ougi-ougi.gif" alt="Owarimonogatari 2nd Season" width="225" height="225"/>
 <p><strong>Rating:</strong> 7/10 🎭<br>
 <strong>Genre:</strong> Mystery, Supernatural, Psychological<br>
 <strong>Studio:</strong> Shaft<br>
@@ -118,7 +118,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>🏃 Hanamonogatari</strong></summary>
-<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif" alt="Hanamonogatari" width="225" height="200"/>
+<img src="https://media1.tenor.com/m/owpSzCOfoaMAAAAd/ok-kyoukaino-kanata.gif" alt="Hanamonogatari" width="225" height="225"/>
 <p><strong>Rating:</strong> Tomboy/10 🧖‍♀️<br>
 <strong>Genre:</strong> Drama, Supernatural, Psychological<br>
 <strong>Studio:</strong> Shaft<br>
@@ -129,7 +129,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <details>
 <summary><strong>😈 High School DxD</strong></summary>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV5N3N2bmtydDN1N2hlZDhva3p6emlxbGViZ2xidTk2dGRhaTI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XQbAP414LZjEY/giphy.gif" alt="High School DxD" width="225" height="200"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV5N3N2bmtydDN1N2hlZDhva3p6emlxbGViZ2xidTk2dGRhaTI3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XQbAP414LZjEY/giphy.gif" alt="High School DxD" width="225" height="225"/>
 <p><strong>Rating:</strong> That should have been me/10 😭<br>
 <strong>Genre:</strong> Action, Comedy, Ecchi, Fantasy, Harem<br>
 <strong>Studio:</strong> TNK<br>
