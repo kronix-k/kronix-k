@@ -21,35 +21,35 @@ Passionate about low-level systems, interactive UIs, and constant learning
 <!-- contoh beberapa icon; tambahkan sesuai kebutuhan -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-alt="HTML5" width="55" height="40"/>
+alt="HTML5" width="55" height="30"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-alt="CSS3" width="50" height="40"/>
+alt="CSS3" width="50" height="30"/>
 </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
-alt="Android" width="50" height="40"/>
+alt="Android" width="50" height="30"/>
 </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-alt="Kotlin" width="50" height="40"/>
+alt="Kotlin" width="50" height="30"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="Python" width="50" height="40"/>
+alt="Python" width="50" height="30"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-alt="Node.js" width="50" height="40"/>
+alt="Node.js" width="50" height="30"/>
 </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png"
-alt="Rust" width="50" height="40"/>
+alt="Rust" width="50" height="30"/>
 </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-alt="Go" width="50" height="40"/>
+alt="Go" width="50" height="30"/>
 </a>
 </p>
 
