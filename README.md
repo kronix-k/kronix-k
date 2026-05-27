@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m <strong>kronix-k</strong></h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5b2NtNzExZTJ2dmVscnRzaDdjZXg2MHcxbXQ0djVybnJ3cWdxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNPvfcYg0AxJYjDop6/giphy.gif"
-align="center" alt="Coding GIF" width="300" height="250" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
+align="center" alt="Coding GIF" width="450" height="250" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);/>
 <h3 align="center"></h2>
 <h3 align="center">
 Passionate about low-level systems, interactive UIs, and constant learning
