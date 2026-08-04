@@ -89,7 +89,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 11<br>
 <strong>Aired:</strong> Jan 8, 2012 – Mar 18, 2012</p>
-<p>At first, I was honestly confused because a lot of the dialogue, wordplay, and literary references were difficult to understand as someone who isn't Japanese. Some of the jokes also didn't land for me, but that didn't stop me from enjoying the movie. What completely won me over was the animation and the fight scenes. SHAFT's ability to blend 2D and 3D animation feels seamless, creating breathtaking action sequences with incredible cinematography. Even when I didn't fully understand every reference, the visuals alone kept me engaged from beginning to end. That's why I consider Kizumogatari "Absolute cinema"—it's one of the most visually stunning anime films I've ever watched.</p>
+<p>I won't pretend otherwise—the infamous toothbrush scene is one of the biggest reasons this season became so memorable for me. It caught me completely off guard and instantly became one of the most unforgettable scenes I've seen in anime. Combined with Karen and Tsukihi's energetic personalities and the chaotic sibling dynamic, it made Nisemonogatari one of the most unforgettable entries in the series. Whether people love it or hate it, it's a scene that's impossible to forget.</p>
 </details>
 
 <details>
