@@ -102,7 +102,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 4<br>
 <strong>Aired:</strong> Dec 31, 2012</p>
-<p>Set before Bakemonogatari, this story follows Tsubasa Hanekawa as she is possessed by the "Sawari Neko" due to repressed family trauma.Hanekawa is the biggest reason I love this arc. She's kind, caring, adorable, and quickly became one of my favorite characters in the entire series. I also really liked her different outfits throughout the story, especially the more stylish and confident looks that perfectly matched her character. Combined with the emotional story and SHAFT's unique visual direction, Nekomonogatari (Kuro) became one of the most memorable entries in the Monogatari series for me.</p>
+<p>Set before Bakemonogatari, Nekomonogatari (Kuro) explores Tsubasa Hanekawa's past as she struggles with the supernatural manifestation of her repressed emotions. Hanekawa is the biggest reason I love this arc. She's kind, caring, adorable, and quickly became one of my favorite characters in the entire Monogatari series. I also really liked her different outfits throughout the story, especially the more stylish and confident ones that perfectly matched her personality. Combined with the emotional storytelling and SHAFT's unique visual direction, Nekomonogatari (Kuro) became one of the most memorable entries in the Monogatari series for me.</p>
 </details>
 
 <details>
@@ -113,7 +113,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 7<br>
 <strong>Aired:</strong> Aug 12, 2017 – Aug 13, 2017</p>
-<p>The final arc of the Monogatari series, where Araragi's journey concludes and Ougi Oshino’s true identity is revealed. It ties up all remaining plot threads with emotional weight and complexity.</p>
+<p>Although this season wraps up many of the story's mysteries, I didn't enjoy it as much as the previous entries because I had a hard time fully understanding the plot. I also wasn't a big fan of the ending, as it didn't leave the same impression on me as the earlier arcs. Even so, the series still delivered the same unique storytelling and visual style that make the Monogatari series stand out.</p>
 </details>
 
 <details>
@@ -124,7 +124,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 5<br>
 <strong>Aired:</strong> Aug 16, 2014</p>
-<p>Follows Suruga Kanbaru after Araragi’s graduation as she investigates rumors about a “Devil Lord” and is forced to face her past and regrets.</p>
+<p>Suruga Kanbaru is my waifu, and she's the biggest reason I love this arc. I've always had a soft spot for tomboy characters, and her confident, energetic personality makes every scene she's in enjoyable. Combined with SHAFT's unique visual style and her character development, Hanamonogatari easily became one of my favorite entries in the Monogatari series.</p>
 </details>
 
 <details>
@@ -135,7 +135,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> TNK<br>
 <strong>Episodes:</strong> 12<br>
 <strong>Aired:</strong> Jan 6, 2012 – Mar 23, 2012</p>
-<p>Issei Hyoudou is killed by a girl on his first date—who turns out to be a fallen angel. Revived as a devil by Rias Gremory, he joins the Occult Research Club and becomes part of supernatural battles filled with ecchi chaos.</p>
+<p>I won't liepart of the reason I enjoyed High School DxD so much is because I couldn't help thinking, "That should have been me." Issei being surrounded by so many beautiful girls and building a harem made the series incredibly entertaining for me. I also enjoyed the unique mix of action, comedy, and ecchi, which kept every episode fun to watch. On top of that, I absolutely love the opening song Trip -innocent of D by Larval Stage Planning—it's one of those anime openings I never skip.</p>
 </details>
 <h3 align="left">🎮 Games I've Played</h3>
 
@@ -144,7 +144,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <img src="https://images.squarespace-cdn.com/content/v1/5caf2dea93a63238c9069ba4/1626882430288-GK0H8XEDOOS13VW58HCB/Ender+Lilies+1.gif?format=2500w" alt="Endless Lilies GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 8.5/10 — Peaceful despair 🌧️</p>
 <p><strong>Genre:</strong> Roguelite, Metroidvania, Action</p>
-<p>A dark‑fantasy action RPG where you control Lily in a ruined kingdom devastated by Death Rain, with fallen knights guiding you through deadly encounters.</p>
+<p>ENDER LILIES was my first soulslike game, so it holds a special place for me. Even though many people consider it one of the easier soulslike experiences, it was the game that introduced me to the genre and made me fall in love with it. I really enjoyed the beautiful art style, satisfying gameplay, and emotional story, all of which created a melancholic atmosphere that stayed with me long after I finished the game. It was the perfect introduction to soulslike games and left me wanting to explore more challenging titles afterward.</p>
 <p><a href="https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/">View on Steam</a></p>
 </details>
 
