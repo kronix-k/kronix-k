@@ -78,7 +78,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 3 movies<br>
 <strong>Aired:</strong> Jan 8, 2016 – Jan 6, 2017</p>
-<p>A prequel to the Monogatari series, telling the story of Koyomi Araragi who is turned into a vampire after saving Kiss-Shot Acerola-Orion Heart-Under-Blade and must fight vampire hunters to regain her powers.</p>
+<p>At first, I was honestly confused because a lot of the dialogue, wordplay, and literary references were difficult to understand as someone who isn't Japanese. Some of the jokes also didn't land for me, but that didn't stop me from enjoying the movie. What completely won me over was the animation and the fight scenes. SHAFT's ability to blend 2D and 3D animation feels seamless, creating breathtaking action sequences with incredible cinematography. Even when I didn't fully understand every reference, the visuals alone kept me engaged from beginning to end. That's why I consider Kizumogatari "Absolute cinema"—it's one of the most visually stunning anime films I've ever watched.</p>
 </details>
 
 <details>
