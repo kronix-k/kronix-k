@@ -153,7 +153,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sOWljcDR3ZTRjZW01M3R0YTgwMmhhdXI4emxhMGVudDdzcTVjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pv92vgg1AgRPkMADQm/giphy.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 10/10 — Peak drama & karaoke 🎤💼</p>
 <p><strong>Genre:</strong> Action, Beat ’em up, Crime Drama</p>
-<p>The prequel to Yakuza, set in 1980s Japan. Follow Kiryu & Majima navigating the criminal underworld in Tokyo and Osaka with emotional drama and absurd side quests.</p>
+<p>Yakuza 0 is one of the few games where I never got bored because there was always something fun to do. Whether it was singing karaoke, playing arcade games, managing the real estate business, or simply getting distracted by random side activities, the game constantly kept me entertained. Despite all the goofy and hilarious moments, it also delivers an incredible story. Majima's storyline was easily my favorite, and watching his character develop throughout the game made the experience even more memorable. Yakuza 0 perfectly balances serious drama with ridiculous fun, which is why it's one of my all-time favorite games.</p>
 <p><a href="https://store.steampowered.com/app/638970/Yakuza_0/">View on Steam</a></p>
 </details>
 
@@ -162,7 +162,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <img src="https://media1.tenor.com/m/b2CedKmxDrwAAAAd/blasphemy-fall.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 9/10 — Catholic guilt simulator ⛓️🩸</p>
 <p><strong>Genre:</strong> Action Platformer, Soulslike, Gothic</p>
-<p>A brutal metroidvania set in the cursed land of Cvstodia. Play as The Penitent One fighting grotesque enemies to break a divine curse.</p>
+<p>I came. I saw. I played. I left the game. The art alone deserves the 9/10. As for finishing the game? Yeah... that's not happening. I'll leave that achievement to people with actual skill.</p>
 <p><a href="https://store.steampowered.com/app/774361/Blasphemous/">View on Steam</a></p>
 </details>
 
@@ -171,7 +171,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
   <img src="https://tcrf.net/images/4/4a/Feedingfrenzy2-Idle_cycle.Cod.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 7/10 — Childhood carnage 🐠✨</p>
 <p><strong>Genre:</strong> Arcade, Casual</p>
-<p>A vibrant underwater arcade game where you evolve by eating smaller fish and dodging predators across colorful levels.</p>
+<p>This game brings back one of my favorite childhood memories. When my parents bought me my first PC in first grade, I spent the whole night playing the original Feeding Frenzy. Looking back, the gameplay is simple, but the nostalgia it carries is priceless. It may not be the greatest game I've ever played, but it's one I'll never forget because it was the beginning of my love for PC games.</p>
 <p><a href="https://store.steampowered.com/app/3390/Feeding_Frenzy_2_Deluxe/">View on Steam</a></p>
 </details>
 
@@ -181,7 +181,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <p><strong>Rating:</strong> 8.2/10 — Who am I really? 🤔</p>
 <p><strong>Genre:</strong> Psychological, Narrative, Exploration</p>
-<p>An interactive exploration-based game that reflects your personality through actions. Each playthrough offers unique psychological insights.</p>
+<p>I really liked the game's art style and the unique idea of discovering your personality through your actions instead of answering a questionnaire. However, I felt that the personality results were a bit too generic. It seemed like the game reused the same template and only changed a few details based on your choices. Even so, the overall concept was creative enough to keep me interested, and it made me curious to see how different decisions could affect the final result.</p>
 <p><a href="https://store.steampowered.com/app/2514960/Refind_Self_The_Personality_Test_Game/">View on Steam</a></p>
 </details>
 
@@ -190,7 +190,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ3bGZ4dnhybmpva3dodXU4MnQwcTNyZnlzY3liaTcwZnBqY293ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqriKSsBp6PrmBh2t/giphy.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
 <p><strong>Rating:</strong> 9.5/10 — Legendary storytelling 🐺🌲</p>
 <p><strong>Genre:</strong> Open‑world RPG, Fantasy, Adventure</p>
-<p>You are Geralt of Rivia in a richly detailed, morally complex world. Hunt monsters, shape destinies, and navigate political intrigue.</p>
+<p>My poor Intel Iris Xe was fighting for its life the entire time I played this game. 😭 Even so, The Witcher 3 completely won me over with its massive open world, incredible exploration, and rich medieval atmosphere. The game is unbelievably long, but that's exactly what makes it so rewarding for players who enjoy getting lost in a world full of quests, secrets, and stories. It's the perfect RPG for anyone who loves medieval fantasy and doesn't mind spending hundreds of hours on a single adventure.</p>
 <p><a href="https://store.steampowered.com/app/292030/the_witcher_3_wild_hunt/">View on Steam</a></p>
 </details>
 
@@ -198,9 +198,9 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <summary><strong>📚 美女，请别影响我学习 (Knowledge, or know Lady)</strong></summary>
     <img src="https://images.steamusercontent.com/ugc/2511393199358523599/DD85C6C1F04CAEBE7B88BDDDE0860C11D074E634/" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>  
 
-<p><strong>Rating:</strong> 6.9/10 — Academia meets waifu 👩‍🏫📘</p>
+<p><strong>Rating:</strong> avril lin is mine/10 — Academia meets waifu 👩‍🏫📘</p>
 <p><strong>Genre:</strong> Visual Novel, Slice of Life, School Sim</p>
-<p>A satirical Chinese visual novel about balancing study time with seductive classmates. Light-hearted and humorous.</p>
+<p>The main reason I love this game is Avril Rin. She's my favorite character and easily the highlight of the whole experience. The game also has many cute and charming characters that make every scene enjoyable. While the story is just average, the character interactions are what kept me interested. For someone who spends a lot of time alone like me, this kind of game is surprisingly relaxing and fun.</p>
 <p><a href="https://store.steampowered.com/app/2786680/_/?l=schinese">View on Steam</a></p>
 </details>
 
@@ -210,7 +210,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <p><strong>Rating:</strong> 9/10 — Gaze‑based kingdom builder 🏰👁️</p>
 <p><strong>Genre:</strong> Roguelite, Kingdom Builder, RTS, Dark Fantasy</p>
-<p>Released on July 21, 2025 by Hypnohead and tinyBuild. Make your subjects work only when you watch them! Manage production, units, magic, and upgrades in tension‑filled runs. Each playthrough reshapes your strategy, with increasingly powerful kings, advisors, buildings, and enemies to face.</p>
+<p>Honestly, I only played the demo version of this game, but it was enough to leave a good impression on me. I didn't expect an indie game with such a unique concept to have this much charm. The art style is beautiful, and the gameplay is simple but surprisingly fun. It shows that even a small indie game can create an interesting experience with creative ideas and a strong visual identity. I haven't played the full version yet, but the demo alone was enough to earn a 9/10 from me.</p>
 <p><a href="https://store.steampowered.com/app/2753900/The_King_is_Watching/">View on Steam</a></p>
 </details>
 
