@@ -135,7 +135,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> TNK<br>
 <strong>Episodes:</strong> 12<br>
 <strong>Aired:</strong> Jan 6, 2012 – Mar 23, 2012</p>
-<p>I won't liepart of the reason I enjoyed High School DxD so much is because I couldn't help thinking, "That should have been me." Issei being surrounded by so many beautiful girls and building a harem made the series incredibly entertaining for me. I also enjoyed the unique mix of action, comedy, and ecchi, which kept every episode fun to watch. On top of that, I absolutely love the opening song Trip -innocent of D by Larval Stage Planning—it's one of those anime openings I never skip.</p>
+<p>I won't liepart of the reason I enjoyed High School DxD so much is because I couldn't help thinking, "That should have been me." Issei being surrounded by so many beautiful girls and building a harem made the series incredibly entertaining for me. I also enjoyed the unique mix of action, comedy, and ecchi, which kept every episode fun to watch. On top of that, I absolutely love the opening song Trip -innocent of D by Larval Stage Planning it's one of those anime openings I never skip.</p>
 </details>
 <h3 align="left">🎮 Games I've Played</h3>
 
