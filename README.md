@@ -89,7 +89,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 11<br>
 <strong>Aired:</strong> Jan 8, 2012 – Mar 18, 2012</p>
-<p>I won't pretend otherwise—the infamous toothbrush scene is one of the biggest reasons this season became so memorable for me. It caught me completely off guard and instantly became one of the most unforgettable scenes I've seen in anime. Combined with Karen and Tsukihi's energetic personalities and the chaotic sibling dynamic, it made Nisemonogatari one of the most unforgettable entries in the series. Whether people love it or hate it, it's a scene that's impossible to forget.</p>
+<p>I won't pretend otherwise the infamous toothbrush scene is one of the biggest reasons this season became so memorable for me. It caught me completely off guard and instantly became one of the most unforgettable scenes I've seen in anime. Combined with Karen and Tsukihi's energetic personalities and the chaotic sibling dynamic, it made Nisemonogatari one of the most unforgettable entries in the series. Whether people love it or hate it, it's a scene that's impossible to forget.</p>
 </details>
 
 <details>
@@ -102,7 +102,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 4<br>
 <strong>Aired:</strong> Dec 31, 2012</p>
-<p>Set before Bakemonogatari, this story follows Tsubasa Hanekawa as she is possessed by the "Sawari Neko" due to repressed family trauma.</p>
+<p>Set before Bakemonogatari, this story follows Tsubasa Hanekawa as she is possessed by the "Sawari Neko" due to repressed family trauma.Hanekawa is the biggest reason I love this arc. She's kind, caring, adorable, and quickly became one of my favorite characters in the entire series. I also really liked her different outfits throughout the story, especially the more stylish and confident looks that perfectly matched her character. Combined with the emotional story and SHAFT's unique visual direction, Nekomonogatari (Kuro) became one of the most memorable entries in the Monogatari series for me.</p>
 </details>
 
 <details>
