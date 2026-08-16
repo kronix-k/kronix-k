@@ -163,7 +163,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <img src="https://media1.tenor.com/m/b2CedKmxDrwAAAAd/blasphemy-fall.gif" alt="Yakuza 0 GIF" width="250" height="160" style="border-radius: 8px;"/>
 <p><strong>Rating:</strong> 9/10 — Catholic guilt simulator ⛓️🩸</p>
 <p><strong>Genre:</strong> Action Platformer, Soulslike, Gothic</p>
-<p>I came. I saw. I played. I left the game. The art alone deserves the 9/10. As for finishing the game? Yeah... that's not happening. I'll leave that achievement to people with actual skill.</p>
+<p>I saw. I played. I left the game. The art alone deserves the 9/10. As for finishing the game? Yeah... that's not happening. I'll leave that achievement to people with actual skill.</p>
 <p><a href="https://store.steampowered.com/app/774361/Blasphemous/">View on Steam</a></p>
 </details>
 
