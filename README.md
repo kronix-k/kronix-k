@@ -63,7 +63,8 @@ alt="Go" width="45" height="20"/>
 
 <h3 align="left">⚡ Fun Facts</h3>
 <ul>
-<li>🎮 A fan of soulslike games and loves a challenge.</li>
+<!-- <li>🎮 A fan of soulslike games and loves a challenge.</li> -->
+<li>🎮 I enjoy playing any kind of game.</li>
 <li>📺 An anime enthusiast, especially the <em>Monogatari Series</em>.</li>
 <li>🎵 Can't play a musical instrument.</li>
 </ul>
