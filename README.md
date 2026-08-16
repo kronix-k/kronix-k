@@ -182,7 +182,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 
 <p><strong>Rating:</strong> 8.2/10 — Who am I really? 🤔</p>
 <p><strong>Genre:</strong> Psychological, Narrative, Exploration</p>
-<p>I really liked the game's art style and the unique idea of discovering your personality through your actions instead of answering a questionnaire. However, I felt that the personality results were a bit too generic. It seemed like the game reused the same template and only changed a few details based on your choices. Even so, the overall concept was creative enough to keep me interested, and it made me curious to see how different decisions could affect the final result.</p>
+<p>I really liked the game's art style and the unique idea of discovering your personality through your actions instead of answering a questionnaire. However, I felt that the personality results were a bit too generic. It seemed like the game reused the same template and only changed a few details based on your choices.</p>
 <p><a href="https://store.steampowered.com/app/2514960/Refind_Self_The_Personality_Test_Game/">View on Steam</a></p>
 </details>
 
