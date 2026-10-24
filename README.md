@@ -79,7 +79,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 3 movies<br>
 <strong>Aired:</strong> Jan 8, 2016 – Jan 6, 2017</p>
-<p>At first, I was honestly confused because a lot of the dialogue, wordplay, and literary references were difficult to understand as someone who isn't Japanese. Some of the jokes also didn't land for me, but that didn't stop me from enjoying the movie. What completely won me over was the animation and the fight scenes. SHAFT's ability to blend 2D and 3D animation feels seamless, creating breathtaking action sequences with incredible cinematography. Even when I didn't fully understand every reference, the visuals alone kept me engaged from beginning to end. That's why I consider Kizumogatari "Absolute cinema"it's one of the most visually stunning anime films I've ever watched.</p>
+<p>At first I was honestly confused because a lot of the dialogue, wordplay, and literary references were difficult to understand as someone who isn't Japanese. Some of the jokes also didn't land for me, but that didn't stop me from enjoying the movie. What completely won me over was the animation and the fight scenes. SHAFT's ability to blend 2D and 3D animation feels seamless, creating breathtaking action sequences with incredible cinematography. Even when I didn't fully understand every reference, the visuals alone kept me engaged from beginning to end. That's why I consider Kizumogatari "Absolute cinema"it's one of the most visually stunning anime films I've ever watched.</p>
 </details>
 
 <details>
@@ -90,7 +90,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 11<br>
 <strong>Aired:</strong> Jan 8, 2012 – Mar 18, 2012</p>
-<p>I won't pretend otherwise the infamous toothbrush scene is one of the biggest reasons this season became so memorable for me. It caught me completely off guard and instantly became one of the most unforgettable scenes I've seen in anime. Combined with Karen and Tsukihi's energetic personalities and the chaotic sibling dynamic, it made Nisemonogatari one of the most unforgettable entries in the series. Whether people love it or hate it, it's a scene that's impossible to forget.</p>
+<p>Too much fan service but i liked it especially the toothbrushing scene but that's not my main focus i also really enjoy the story too</p>
 </details>
 
 <details>
@@ -103,7 +103,7 @@ Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanya
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 4<br>
 <strong>Aired:</strong> Dec 31, 2012</p>
-<p>Set before Bakemonogatari, Nekomonogatari (Kuro) explores Tsubasa Hanekawa's past as she struggles with the supernatural manifestation of her repressed emotions. Hanekawa is the biggest reason I love this arc. She's kind, caring, adorable, and quickly became one of my favorite characters in the entire Monogatari series. I also really liked her different outfits throughout the story, especially the more stylish and confident ones that perfectly matched her personality. Combined with the emotional storytelling and SHAFT's unique visual direction, Nekomonogatari (Kuro) became one of the most memorable entries in the Monogatari series for me.</p>
+<p>Set before Bakemonogatari Nekomonogatari (Kuro) explores Tsubasa Hanekawa's past as she struggles with the supernatural manifestation of her repressed emotions Hanekawa is the biggest reason I love this arc. She's kind, caring, adorable, and quickly became one of my favorite characters in the entire Monogatari series I also really liked her different outfits throughout the story, especially the more stylish and confident ones that perfectly matched her personality Combined with the emotional storytelling and SHAFT's unique visual direction, Nekomonogatari (Kuro) became one of the most memorable entries in the Monogatari series for me</p>
 </details>
 
 <details>
