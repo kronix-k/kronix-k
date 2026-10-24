@@ -90,7 +90,7 @@ alt="Go" width="45" height="20"/>
 <strong>Studio:</strong> Shaft<br>
 <strong>Episodes:</strong> 11<br>
 <strong>Aired:</strong> Jan 8, 2012 – Mar 18, 2012</p>
-<p>Too much fan service but i liked it especially the toothbrushing scene but that's not my main focus i also really enjoy the story too</p>
+<p>Too much fan service, but I liked it, especially the toothbrushing scene. That’s not my main focus, though I really enjoyed the story too.</p>
 </details>
 
 <details>
