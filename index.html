@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>kronix-k — Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#DCD5F2; --ink:#1E1433; --muted:#4D4366; --accent:#D81B6A; --block:#F6D743; --block-ink:#1E1433; --panel:#EFEAFB; --line:#1E1433;
+  color-scheme:light; box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){--bg:#1A1230;--ink:#EDE7FF;--muted:#B5A9D6;--accent:#FF5C9E;--panel:#251A44;--line:#EDE7FF;color-scheme:dark}
+}
+:root[data-theme="dark"]{--bg:#1A1230;--ink:#EDE7FF;--muted:#B5A9D6;--accent:#FF5C9E;--panel:#251A44;--line:#EDE7FF;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px);height:100%}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Zen Kaku Gothic New",system-ui,sans-serif;font-size:17px;line-height:1.65}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.wrap{max-width:960px;margin:0 auto;padding:0 22px}
+nav{display:flex;gap:22px;justify-content:flex-end;padding:18px 0;font-weight:700}
+nav a{text-decoration:none}
+nav a:hover{color:var(--accent)}
+/* hero */
+.hero{padding:40px 0 70px}
+.hero h1{font-family:"Dela Gothic One",sans-serif;font-weight:400;font-size:clamp(3.4rem,13vw,9rem);line-height:.95;margin:0;color:var(--accent);transform:rotate(-3deg);transform-origin:left bottom;letter-spacing:-.02em}
+.flash{display:inline-block;background:var(--block);color:var(--block-ink);font-weight:700;padding:10px 18px;margin-top:34px;font-size:1.15rem;max-width:34ch}
+.hero p{max-width:52ch;color:var(--muted);margin:22px 0 0}
+.btns{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}
+.btn{display:inline-block;padding:11px 20px;border:2px solid var(--line);text-decoration:none;font-weight:700}
+.btn.primary{background:var(--ink);color:var(--bg)}
+.btn:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+/* sections */
+section{padding:56px 0;border-top:2px solid var(--line)}
+h2{font-family:"Dela Gothic One",sans-serif;font-weight:400;font-size:clamp(1.8rem,5vw,2.8rem);margin:0 0 8px;line-height:1.1}
+.sub{color:var(--muted);margin:0 0 30px;max-width:56ch}
+/* projects */
+.proj{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:8px 32px;padding:22px 0;border-bottom:1px solid var(--line)}
+.proj:first-of-type{padding-top:0}
+.proj h3{margin:0;font-size:1.25rem}
+.proj p{margin:0;color:var(--muted)}
+.tag{display:inline-block;margin-top:6px;font-size:.85rem;font-weight:700;background:var(--block);color:var(--block-ink);padding:1px 10px}
+.proj.main h3{font-family:"Dela Gothic One",sans-serif;font-weight:400;font-size:1.7rem;color:var(--accent)}
+@media (max-width:640px){.proj{grid-template-columns:1fr}}
+/* skills */
+.skills{display:flex;flex-wrap:wrap;gap:10px}
+.skills span{border:2px solid var(--line);padding:6px 16px;font-weight:700;background:var(--panel)}
+/* log */
+.tabs{display:flex;gap:10px;margin:0 0 22px}
+.tabs button{font:inherit;font-weight:700;padding:9px 20px;border:2px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+details{border-bottom:1px solid var(--line)}
+summary{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:16px 0;cursor:pointer;list-style:none;font-weight:700;font-size:1.1rem}
+summary::-webkit-details-marker{display:none}
+summary .r{color:var(--accent);font-size:.95rem;text-align:right}
+summary::before{content:"+";font-family:"Dela Gothic One",sans-serif;color:var(--accent);width:1.2em;flex:none}
+details[open] summary::before{content:"–"}
+summary .t{flex:1}
+.body{padding:0 0 22px 1.2em;max-width:68ch}
+.body .meta{color:var(--muted);font-size:.9rem;margin:0 0 8px}
+.body p{margin:0 0 10px}
+.body a{color:var(--accent);font-weight:700}
+footer{border-top:2px solid var(--line);padding:34px 0 50px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;color:var(--muted)}
+/* motion */
+body{overflow-x:hidden}
+.hero h1 span{display:inline-block;cursor:default;animation:drop .8s cubic-bezier(.2,.9,.3,1.3) both,wave 3s ease-in-out infinite;animation-delay:calc(var(--i)*80ms),calc(1s + var(--i)*140ms)}
+.hero h1 span:hover{animation:jump .5s ease both;color:var(--ink)}
+@keyframes drop{from{transform:translateY(-1.2em) rotate(-25deg) scale(.4);opacity:0}}
+@keyframes wave{0%,100%{transform:translateY(0)}50%{transform:translateY(-.08em)}}
+@keyframes jump{0%{transform:translateY(0)}40%{transform:translateY(-.25em) rotate(-8deg) scale(1.15)}100%{transform:translateY(0)}}
+.flash{animation:wipe .7s cubic-bezier(.7,0,.2,1) 1s both}
+@keyframes wipe{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+.hero p{animation:fadeUp .7s ease 1.3s both}
+.btns{animation:fadeUp .7s ease 1.5s both}
+@keyframes fadeUp{from{opacity:0;transform:translateY(18px)}}
+.marq{overflow:hidden;white-space:nowrap;background:var(--ink);color:var(--bg);font-family:"Dela Gothic One",sans-serif;padding:12px 0;transform:rotate(-1.5deg);margin:0 -30px 40px}
+.marq div{display:inline-block;animation:marq 40s linear infinite}
+@keyframes marq{to{transform:translateX(-50%)}}
+.js .rv{opacity:0;transform:translateY(26px);transition:opacity .6s ease var(--d,0ms),transform .6s cubic-bezier(.2,.8,.2,1) var(--d,0ms)}
+.js .rv.in{opacity:1;transform:none}
+nav a{background:linear-gradient(var(--accent),var(--accent)) left bottom/0 3px no-repeat;transition:background-size .25s,color .2s}
+nav a:hover{background-size:100% 3px}
+.btn{transition:transform .2s,background .2s,color .2s}
+.btn:hover{transform:translateY(-3px) rotate(-1.5deg)}
+.skills span{transition:transform .2s,background .2s,color .2s}
+.skills span:hover{transform:rotate(-4deg) scale(1.08);background:var(--block);color:var(--block-ink)}
+.proj{transition:transform .25s}
+.proj:hover{transform:translateX(10px)}
+.tabs button{transition:background .2s,color .2s}
+details{animation:itemIn .45s ease both;animation-delay:calc(var(--i,0)*60ms)}
+@keyframes itemIn{from{opacity:0;transform:translateX(-18px)}}
+.body{animation:openIn .35s ease}
+@keyframes openIn{from{opacity:0;transform:translateY(-8px)}}
+summary:hover .t{color:var(--accent)}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.js .rv{opacity:1;transform:none}}
+</style>
+<script>document.documentElement.className+=" js"</script>
+</head>
+<body>
+<div class="wrap">
+  <nav aria-label="Main">
+    <a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#log">Logbook</a><a href="#contact">Contact</a>
+  </nav>
+
+  <header class="hero">
+    <h1 id="title" aria-label="kronix-k">kronix-k</h1>
+    <div class="flash">Low-level systems, interactive UIs, and constant learning.</div>
+    <p>I build small tools and one big voice assistant, mostly in the gaps between games and anime. Below: what I’m making, what I use, and what I’ve been playing and watching.</p>
+    <div class="btns">
+      <a class="btn primary" href="#projects">See my projects</a>
+      <a class="btn" href="https://github.com/kronix-k" target="_blank" rel="noreferrer">GitHub profile</a>
+    </div>
+  </header>
+  <div class="marq" aria-hidden="true"><div id="mq"></div></div>
+
+  <section id="projects">
+    <h2>What I’m working on</h2>
+    <p class="sub">One main project and a few utilities I’m building to learn.</p>
+    <div class="proj main">
+      <div><h3>Neo Assistant</h3><span class="tag">Main project</span></div>
+      <p>An offline, multi-language voice assistant with interactive 3D visuals and lipsync. It runs on your device, so it keeps working without a connection.</p>
+    </div>
+    <div class="proj">
+      <div><h3>CLI Calculator</h3></div>
+      <p>A terminal calculator for basic operations.</p>
+    </div>
+    <div class="proj">
+      <div><h3>Temperature Converter</h3></div>
+      <p>Converts between temperature scales through a text interface.</p>
+    </div>
+    <div class="proj">
+      <div><h3>Warranty Manager</h3></div>
+      <p>Keeps track of your product warranties and shows how to make a claim.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Languages and tools</h2>
+    <p class="sub">What I reach for most.</p>
+    <div class="skills"><span>HTML5</span><span>CSS3</span><span>Android</span><span>Kotlin</span><span>Python</span><span>Node.js</span><span>Rust</span><span>Go</span></div>
+  </section>
+
+  <section id="log">
+    <h2>Logbook</h2>
+    <p class="sub">Anime I’ve watched and games I’ve played, with honest ratings. Tap a title to read my notes.</p>
+    <div class="tabs" role="tablist">
+      <button role="tab" aria-selected="true" data-k="anime">Anime</button>
+      <button role="tab" aria-selected="false" data-k="games">Games</button>
+    </div>
+    <div id="list"></div>
+  </section>
+
+  <section id="contact">
+    <h2>Say hi</h2>
+    <p class="sub">The best place to find my code is GitHub.</p>
+    <a class="btn primary" href="https://github.com/kronix-k" target="_blank" rel="noreferrer">github.com/kronix-k</a>
+  </section>
+
+  <footer><span>kronix-k</span><span>Fun fact: I can’t play any instrument.</span></footer>
+</div>
+
+<script>
+var DATA = {
+  anime: [
+    {t:"Kizumonogatari", r:"Absolute cinema", m:"Action, Supernatural, Vampire, Drama · Shaft · 3 movies · 2016–2017",
+     n:"I was confused at first: the dialogue, wordplay and literary references are hard to follow if you aren’t Japanese. What won me over was the animation and the fights. Shaft blends 2D and 3D seamlessly, and the cinematography kept me hooked even when I missed a reference."},
+    {t:"Nisemonogatari", r:"I need two sisters", m:"Mystery, Supernatural, Comedy · Shaft · 11 episodes · 2012",
+     n:"A lot of fan service, but I liked it anyway. The toothbrushing scene is a highlight, though it isn’t my main focus. I enjoyed the story too."},
+    {t:"Nekomonogatari (Kuro)", r:"にゃ/10", m:"Supernatural, Psychological, Drama · Shaft · 4 episodes · 2012",
+     n:"Set before Bakemonogatari, it explores Tsubasa Hanekawa’s past as she struggles with the supernatural side of her repressed emotions. She is the biggest reason I love this arc: kind, caring, adorable, and one of my favorite characters in the series. Her outfits are great too."},
+    {t:"Owarimonogatari 2nd Season", r:"7/10", m:"Mystery, Supernatural, Psychological · Shaft · 7 episodes · 2017",
+     n:"It wraps up many of the mysteries, but I had a hard time following the plot and the ending didn’t land like the earlier arcs. Still the same unique storytelling and visual style."},
+    {t:"Hanamonogatari", r:"Tomboy/10", m:"Drama, Supernatural, Psychological · Shaft · 5 episodes · 2014",
+     n:"Suruga Kanbaru is my waifu and the biggest reason I love this arc. I’ve always had a soft spot for tomboy characters, and her energy lifts every scene. One of my favorite entries."},
+    {t:"High School DxD", r:"That should have been me", m:"Action, Comedy, Ecchi, Fantasy, Harem · TNK · 12 episodes · 2012",
+     n:"I kept thinking “that should have been me.” The mix of action, comedy and ecchi kept every episode fun, and I never skip the opening, Trip -innocent of D-."}
+  ],
+  games: [
+    {t:"Yakuza 0", r:"10/10", m:"Action, Beat ’em up, Crime drama", u:"https://store.steampowered.com/app/638970/Yakuza_0/",
+     n:"There was always something fun to do: karaoke, arcades, running the real estate business, random side activities. Behind the goofy moments is an excellent story, and Majima’s was my favorite."},
+    {t:"The Witcher 3: Wild Hunt", r:"9.5/10", m:"Open-world RPG, Fantasy", u:"https://store.steampowered.com/app/292030/the_witcher_3_wild_hunt/",
+     n:"My Intel Iris Xe fought for its life the whole time. The huge world, exploration and medieval atmosphere won me over anyway. Perfect if you like getting lost for hundreds of hours."},
+    {t:"Blasphemous", r:"9/10", m:"Action platformer, Soulslike, Gothic", u:"https://store.steampowered.com/app/774361/Blasphemous/",
+     n:"I saw. I played. I left. The art alone earns the 9/10. Finishing it is something I’ll leave to people with actual skill."},
+    {t:"The King is Watching", r:"9/10", m:"Roguelite, Kingdom builder, RTS", u:"https://store.steampowered.com/app/2753900/The_King_is_Watching/",
+     n:"I only played the demo, but it left a strong impression: a unique concept, beautiful art and simple, fun gameplay. I haven’t tried the full version yet."},
+    {t:"ENDER LILIES: Quietus of the Knights", r:"8.5/10", m:"Metroidvania, Action", u:"https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/",
+     n:"My first soulslike, so it holds a special place. Many call it one of the easier ones, but it made me fall in love with the genre. The art, gameplay and melancholic story stayed with me."},
+    {t:"Refind Self: The Personality Test Game", r:"8.2/10", m:"Psychological, Narrative, Exploration", u:"https://store.steampowered.com/app/2514960/Refind_Self_The_Personality_Test_Game/",
+     n:"I liked the art and the idea of finding your personality through actions instead of a questionnaire. The results felt too generic, like one template with a few details swapped."},
+    {t:"Feeding Frenzy 2 Deluxe", r:"7/10", m:"Arcade, Casual", u:"https://store.steampowered.com/app/3390/Feeding_Frenzy_2_Deluxe/",
+     n:"When my parents bought my first PC in first grade, I played the original Feeding Frenzy all night. The gameplay is simple, but the nostalgia is priceless: it’s where my love for PC games began."},
+    {t:"美女，请别影响我学习", r:"Avril Lin is mine", m:"Visual novel, Slice of life, School sim", u:"https://store.steampowered.com/app/2786680/_/?l=schinese",
+     n:"I play it for Avril Lin, my favorite character. The story is average, but the cute cast and their interactions kept me interested. Surprisingly relaxing when you spend a lot of time alone."}
+  ]
+};
+var list = document.getElementById("list");
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function render(k){
+  list.innerHTML = DATA[k].map(function(d,i){
+    return '<details style="--i:'+i+'"><summary><span class="t">'+esc(d.t)+'</span><span class="r">'+esc(d.r)+'</span></summary>'+
+      '<div class="body"><p class="meta">'+esc(d.m)+'</p><p>'+esc(d.n)+'</p>'+
+      (d.u?'<a href="'+esc(d.u)+'" target="_blank" rel="noreferrer">View on Steam</a>':'')+'</div></details>';
+  }).join("");
+}
+document.querySelectorAll(".tabs button").forEach(function(b){
+  b.addEventListener("click",function(){
+    document.querySelectorAll(".tabs button").forEach(function(x){x.setAttribute("aria-selected",x===b)});
+    render(b.dataset.k);
+  });
+});
+render("anime");
+
+// hero title: split into letters
+var h=document.getElementById("title");
+h.textContent="";
+"kronix-k".split("").forEach(function(c,i){var s=document.createElement("span");s.textContent=c;s.setAttribute("aria-hidden","true");s.style.setProperty("--i",i);h.appendChild(s)});
+// marquee
+document.getElementById("mq").textContent="Low-level systems \u2726 Interactive UIs \u2726 Constant learning \u2726 ".repeat(8);
+// scroll reveal
+var els=document.querySelectorAll("section h2, section .sub, .proj, .skills span, .tabs, section .btn, footer");
+els.forEach(function(e){
+  e.classList.add("rv");
+  var sib=e.parentNode.children;
+  if(e.matches(".proj, .skills span")){e.style.setProperty("--d",(Array.prototype.indexOf.call(sib,e)*90)+"ms")}
+});
+function show(e){
+  e.classList.add("in");
+  var d=parseInt(e.style.getPropertyValue("--d"))||0;
+  setTimeout(function(){e.classList.remove("rv","in")},900+d);
+}
+if("IntersectionObserver" in window){
+  var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){show(en.target);io.unobserve(en.target)}})},{threshold:.15});
+  els.forEach(function(e){io.observe(e)});
+}else{els.forEach(show)}
+</script>
+</body>
+</html>
