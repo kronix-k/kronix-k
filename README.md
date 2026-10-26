@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./kronix-k-portfolio.svg" alt="kronix-k portfolio" width="800">
+<img src="https://raw.githubusercontent.com/kronix-k/kronix-k/main/assets/kronix-k-portfolio.svg" alt="kronix-k portfolio" width="800">
 </p>
 
 <p align="center">
