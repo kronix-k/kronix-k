@@ -1,0 +1,41 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 3 * * *"        # every day at 03:00 UTC (refreshes the stats)
+  workflow_dispatch:            # manual run from the Actions tab
+  push:
+    branches: [main]
+    paths: [index.html, build_portfolio.py, today.py]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build README and SVG parts from index.html (embeds fonts)
+        run: python build_portfolio.py
+
+      - name: Fill in live GitHub stats
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: kronix-k
+        run: python today.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git diff --cached --quiet || (git commit -m "chore: update profile" && git push)
